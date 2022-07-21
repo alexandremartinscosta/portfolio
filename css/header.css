@@ -1,0 +1,11 @@
+.menu {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.menu a {
+  text-decoration: underline;
+  text-decoration-color: white;
+  color: white;
+}

@@ -1,0 +1,18 @@
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.content {
+  grid-column: 1;
+  color: white;
+}
+
+.content h1 {
+ font-size: 4rem; 
+}
+
+.profile-img {
+  grid-column: 2;
+  width: max-content;
+}
