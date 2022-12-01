@@ -14,5 +14,5 @@ main {
 
 .profile-img {
   grid-column: 2;
-  width: max-content;
+  width: min-content;
 }

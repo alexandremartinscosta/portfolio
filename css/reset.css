@@ -1,8 +1,9 @@
-body, h1, p, ul, div, img {
+html, body, h1, p, ul, div, img {
   padding: 0px;
   margin: 0px;
 }
 
 body {
   background-color: #000;
+  padding: 20px;
 }
